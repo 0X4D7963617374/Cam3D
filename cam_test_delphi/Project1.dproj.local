@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/03 23:01:11.000.847,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/11/19 13:51:05.000.450,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/11/19 13:52:39.000.021,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/12/07 19:35:00.000.453,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/12/19 13:01:19.000.000,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2022/12/21 19:58:16.000.215,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2023/06/29 15:44:55.000.825,=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2023/06/29 15:46:06.000.695,C:\Users\33686\Desktop\Nouveau dossier (16)\Nouveau dossier (2)\Unit1.dfm=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2023/06/29 15:46:06.000.695,C:\Users\33686\Desktop\Nouveau dossier (16)\Nouveau dossier (2)\Unit1.pas=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2023/06/29 15:46:08.000.950,C:\Users\33686\Desktop\Nouveau dossier (16)\Nouveau dossier (2)\Project1.dproj=C:\Users\33686\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
