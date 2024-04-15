@@ -10,3 +10,11 @@ Notez qu'il peut y avoir du code inutilisé, car je n'ai pas fait de modificatio
 En espérant que cela vous soit utile.
 
 Au plaisir.
+
+![Image 1](./img_1.png)
+
+![Image 2](./img_2.png)
+
+![Image 3](./img_3.png)
+
+![Image 4](./img_4.png)
